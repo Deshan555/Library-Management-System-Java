@@ -1,0 +1,1 @@
+#That Folder Contain Temporary Image Files
