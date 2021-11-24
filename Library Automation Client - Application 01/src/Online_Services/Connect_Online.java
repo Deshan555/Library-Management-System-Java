@@ -10,11 +10,11 @@ public class Connect_Online
     {
         Connection conn = null;
 
-        String database_url = "jdbc:mysql://remotemysql.com:3306/C5tbieTCrC?autoReconnect=true";
+        String database_url = ""; // Database URL
 
-        String user_name = "C5tbieTCrC";
+        String user_name = ""; // Add User name
 
-        String password = "wKJczujtNF";
+        String password = " "; // Password
 
         try
         {
