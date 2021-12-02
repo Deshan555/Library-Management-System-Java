@@ -1,2 +1,77 @@
-# RFID-Based-Library-Automation-System
-RFID means Radio frequency identification i.e. the technology that uses radio waves to automatically identify individual items. The objective of any RFID system is to carry data in suitable transponders, generally known as tags and to retrieve data, by machine readable means, at a suitable time and place and to satisfy particular application needs RFID is one of the most technologies being adopted by both industry and academic world. Modern academic library is a place where millions of books advanced; periodicals, CDs, DVDs and other electronic reading materials are contained. It is a challenge to manage for librarians, managing such type of huge collection. RFID technology is in use since the 1970s. RFID tags can be active, semi-passive and passive. It is a small device that can store information. Passive tags don't have internal batteries. RFID reader is a device that can receive and transmit a radio signal. It is built to encode data stored in the tag's microprocessor. Because of the higher cost, active and semi-passive RFID tags are used for valuable asset tracking. The passive RFID tags are used in RFID library management systems. RFID library management, using RFID tags library, is easy and convenient. A RFID library management system consists of books, each attached with an RFID tag, RFID reader, computer network and software. Library staff handle lending, returning, sorting, tagging etc. of books, using RFID tags in this library system. A person can locate RFID library books marked with a RFID tags, using the RFID reader which identifies and locates the book. When the book is carried to the counter, the library staff can either activate or deactivate the electronic article surveillance bit in the book's tag. If a book is borrowed, then the surveillance bit is deactivated.
+
+# RFID Based Library System
+
+Libraries are very important aspects for humans. They are essential in acquiring and retaining the knowledge of a person. But the earlier library system has caused many problems. This project helps to identify the large number of tagged books using radio waves. The database shows the availability of the book in the library so that the student can search in the database and if available, they can collect book from the library. It helps to handle the issue, renewal and return process via RFID tags easily. Student will get notified about the due date of book using GSM. If the student failed to return the book after the due date corresponding fine will be generated based on the time period. RFID EAS system is used for theft detection at the library.
+## Badges
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
+## Authors
+
+- [@Deshan555](https://github.com/Deshan555)
+
+
+## Features
+
+-RFID Based
+
+-Acquisition management module
+
+-Automatic Backup and Restore Option
+
+-Catalog management module
+
+-Data Validation module
+
+-User management module
+
+-Circulation management module
+
+-Online Public Access Catalog (OPAC)
+
+-Fee management module
+
+-Automatic Genarate Bug Reports
+
+-Build In Email client and bulk mail send option
+
+-Multi admin manager
+
+-Automatic due date reminder module and more...
+
+
+
+## License
+
+[MIT](https://github.com/Deshan555/RFID_Based_Library-System-For_Book_Return/blob/main/LICENSE)
+
+
+## Tech Stack
+
+**Client:** Java, Java Swing
+
+**Server:** MYSQL
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Deshan555/RFID-Based-Library-Automation-System.git
+```
+
+Go to the project directory and open project with Netbean IDE
+
+
+## Installation
+
+Download exe files and install like as simple application
+
+Link : https://drive.google.com/file/d/1SpF_dyxpUtYSNIicBTEoLxB7wdU97rvp/view?usp=sharing
+    
